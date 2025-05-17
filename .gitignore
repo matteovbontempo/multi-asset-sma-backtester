@@ -1,0 +1,12 @@
+venv/
+.venv/
+
+__pycache__/
+*.py[cod]
+
+.vscode/
+
+.streamlit/
+
+.DS_Store
+Thumbs.db
