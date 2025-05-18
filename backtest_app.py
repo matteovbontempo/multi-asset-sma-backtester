@@ -26,9 +26,9 @@ st.markdown(
 with st.sidebar:
     st.markdown("### Matteo Vito Bontempo")
     st.markdown(
-        "B.Sc. in Accounting & CIS – Dec 2025  \n"
+        "B.S. in Accounting & CIS – Dec 2025  \n"
         "North Carolina Wesleyan University  \n"
-        "🇦🇷 From Argentina"
+        "From Argentina"
     )
     st.markdown("---")
 
